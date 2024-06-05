@@ -8,7 +8,7 @@ Este repositório contém um projeto de sistema inteligente utilizando um microc
 
 O objetivo deste projeto é fornecer uma ferramenta educacional para alunos de cursos técnicos aprenderem sobre a aplicação de tecnologias IoT na prática. O sistema permite que o usuário toque diferentes notas musicais e uma música clássica, demonstrando como utilizar o ESP32 para controlar componentes eletrônicos e gerar sons. Um LED complementa a interface, indicando visualmente o status dos dispositivos.
 
-Acesse - <a href="https://wokwi.com/projects/399870854949713921" target="_blank">Demonstração do Projeto</a>
+Acesse - [Demonstração do Projeto]("https://wokwi.com/projects/399870854949713921")
 
 ## Componentes
 
